@@ -16,7 +16,7 @@
 -  I’m currently learning: Machine Learning, System Design, and Open Source Collaboration  
 -  Ask me about: ML, Flutter, Python, DSA, Hackathons  
 -  Goal: Build impactful tech products and communities  
--  Fun fact: I’m also a coding content creator with 10k+ followers 🎉
+-  Fun fact: I’m also a coding content creator with 10k+ followers 
 
 <!-- Rainbow divider -->
 <p align="center">
