@@ -44,16 +44,13 @@ Finishing Repos   ██░░░░░░░░░ 15%
 <!-- ==========================
      Holopin Badges
 ========================== -->
-[![An image of @deepakkambala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepakkambala)](https://holopin.io/@deepakkambala#badges)
+<!--[![An image of @deepakkambala's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepakkambala)](https://holopin.io/@deepakkambala#badges)
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="Rainbow Divider"/>
 </p>
 
-<!-- ==========================
+==========================
      Footer / Call to Action
 ========================== -->
-<p align="center">
-  ⚡ Let's build something amazing together!
-</p>
